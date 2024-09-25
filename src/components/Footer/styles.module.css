@@ -1,0 +1,49 @@
+.footer {
+  background-color: #232425;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  padding: 70px 10px 50px 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons {
+  display: flex;
+  gap: 26px;
+  justify-content: end;
+}
+.info {
+  color: #ffffff50;
+}
+
+.rightContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.inputEmail {
+  background-color: #232425;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #ffffff50;
+  padding: 15px 0;
+}
+
+h4 {
+  color: #ffffff;
+  padding-bottom: 40px;
+}
+
+p {
+  margin-bottom: 13px;
+}
+
+p:last-of-type {
+  margin-top: 90px;
+}

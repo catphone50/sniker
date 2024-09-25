@@ -1,0 +1,27 @@
+.header {
+  background-color: #3b3c3d;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 900;
+  padding: 43px 0;
+}
+.container {
+  width: 100%;
+  max-width: 1440px;
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav {
+  text-decoration: none;
+}
+.containerNav {
+  gap: 64px;
+  display: flex;
+}

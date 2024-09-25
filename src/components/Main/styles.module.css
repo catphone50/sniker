@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px 10px 172px 10px;
+}
+
+.title {
+  width: 100%;
+  max-width: 1440px;
+  padding: 70px 10px 40px 10px;
+  border-bottom: 1px solid #eaeaea;
+
+  h3 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+}
