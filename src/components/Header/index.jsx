@@ -27,7 +27,7 @@ function Header() {
           </NavLink>
           <NavLink
             className={styles.nav}
-            to="/"
+            to="/contacts"
             style={({ isActive }) => ({
               color: isActive ? "#FFFFFF" : "#FFFFFF80",
             })}
