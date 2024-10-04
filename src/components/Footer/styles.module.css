@@ -35,15 +35,15 @@
   padding: 15px 0;
 }
 
-h4 {
+.info h4 {
   color: #ffffff;
   padding-bottom: 40px;
 }
 
-p {
+.info p {
   margin-bottom: 13px;
 }
 
-p:last-of-type {
+.info p:last-of-type {
   margin-top: 90px;
 }

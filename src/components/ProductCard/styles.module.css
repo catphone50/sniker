@@ -1,0 +1,50 @@
+.card {
+  border: 1px solid #00000015;
+  border-radius: 42px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  max-width: 385px;
+}
+.infoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.priceContainer {
+  margin-top: 42px;
+}
+
+.infoContainer {
+  display: flex;
+  align-items: flex-end;
+}
+
+.priceTitle {
+  color: #666666;
+}
+
+.name {
+  font-size: 24px;
+  color: black;
+  margin-top: 32px;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.button {
+  border-radius: 50%;
+  background-color: rgb(233, 233, 233, 0.5);
+  width: 37px;
+  height: 37px;
+  border: 1px solid rgb(104, 102, 102, 0.5);
+}
+.button:hover {
+  color: #fff;
+  background-color: #000;
+  border: 1px solid #03060f;
+}

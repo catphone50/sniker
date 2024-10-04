@@ -17,3 +17,12 @@
     font-weight: bold;
   }
 }
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1440px;
+  gap: 30px;
+  justify-content: space-between;
+  margin-top: 45px;
+}
